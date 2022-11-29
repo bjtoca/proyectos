@@ -29,9 +29,12 @@ Objetivos Específico:
 
 # 3. Explicación del procedimiento.
 
+
+
 # 4. Video.
 
 # 5. Conclusiones.
 
 # 6. Bibliografía.
-•	Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
+
+* Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
