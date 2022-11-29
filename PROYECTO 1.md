@@ -29,12 +29,13 @@ Objetivos Específico:
 
 # 3. Explicación del procedimiento.
 
+# 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+NO HUBO EJERCICIOS.
 
+# 5. Video.
 
-# 4. Video.
+# 6. Conclusiones.
 
-# 5. Conclusiones.
-
-# 6. Bibliografía.
+# 7. Bibliografía.
 
 * Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
