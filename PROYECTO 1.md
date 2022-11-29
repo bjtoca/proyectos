@@ -58,7 +58,7 @@ NO HUBO EJERCICIOS.
 # 7. Bibliografía.
 
 * Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
-* https://www.barcelonaled.com/blog/informacion-led/caracteristicas-y-ventajas-de-los-diodos-led/#:~:text=y%20sus%20ventajas.-,Caracter%C3%ADsticas%20de%20los%20diodos%20LED,aproximadamente%20con%20corriente%20de%202V.
+* Barcelona, L. E. D. (2020, abril 26). Características y Ventajas de los Diodos LED. B·LED - Blog; Barcelona LED Iluminacion S.L. https://www.barcelonaled.com/blog/informacion-led/caracteristicas-y-ventajas-de-los-diodos-led/
 * Álvarez, D. O. (s/f). Número Atómico - Concepto, masa atómica y número másico. Concepto. Recuperado el 11 de noviembre de 2022, de https://concepto.de/numero-atomico/
-* https://www.geeknetic.es/Resistencia/que-es-y-para-que-sirve
-* https://maquinasde.com/maquinas/electrica/resistencia-electrica/
+* Resistencia Eléctrica. (2021, mayo 26). Maquinasde.com. https://maquinasde.com/maquinas/electrica/resistencia-electrica/
+* ¿Qué es una resistencia y para qué sirve? (s/f). GEEKNETIC. Recuperado el 29 de noviembre de 2022, de https://www.geeknetic.es/Resistencia/que-es-y-para-que-sirve
