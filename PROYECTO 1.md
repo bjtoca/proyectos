@@ -29,9 +29,6 @@ Objetivos Específico:
 
 # 3. Explicación del procedimiento.
 
-![image](https://user-images.githubusercontent.com/116813369/204435711-c0bf7f36-dcc2-42be-a0ce-64fe0132207f.png)
-
-
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 NO HUBO EJERCICIOS.
 
@@ -39,12 +36,10 @@ NO HUBO EJERCICIOS.
 
 # 6. Conclusiones.
 
-* Se comprendió la función de cada uno de los materiales que utilizamos en el proyecto y como actuaron todos en el mismo.
-
-* Se describió la importancia de nuestro proyecto para la vida real.
-
-* Se puedo entender como la relación entre el voltaje de una bateria con resistores y transistores, para poder prender un led.
-
 # 7. Bibliografía.
 
+*https://www.areatecnologia.com/electronica/como-es-un-led.html
 * Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
+* https://www.barcelonaled.com/blog/informacion-led/caracteristicas-y-ventajas-de-los-diodos-led/#:~:text=y%20sus%20ventajas.-,Caracter%C3%ADsticas%20de%20los%20diodos%20LED,aproximadamente%20con%20corriente%20de%202V.
+* https://www.geeknetic.es/Resistencia/que-es-y-para-que-sirve
+* https://maquinasde.com/maquinas/electrica/resistencia-electrica/
