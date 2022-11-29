@@ -22,7 +22,7 @@ Objetivos Específico:
 
 ![image](https://user-images.githubusercontent.com/117947312/204426208-fe2e4cd3-9671-4a7f-8b9f-84279ef814d6.png)
 
-![image](https://user-images.githubusercontent.com/117947312/204426224-a98e7508-b158-40fc-992f-d7b67bd0329c.png)
+![1](https://user-images.githubusercontent.com/117947312/204430854-1cda2d7a-9db8-4777-afca-f8cb2c6a7050.png)
 
 ![Mapa Mental Marketing Ideas Moderno Verde](https://user-images.githubusercontent.com/117947312/204429472-b6b5db22-acd0-4322-b2bd-f4f199df206b.png)
 
