@@ -41,5 +41,6 @@ NO HUBO EJERCICIOS.
 *https://www.areatecnologia.com/electronica/como-es-un-led.html
 * Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
 * https://www.barcelonaled.com/blog/informacion-led/caracteristicas-y-ventajas-de-los-diodos-led/#:~:text=y%20sus%20ventajas.-,Caracter%C3%ADsticas%20de%20los%20diodos%20LED,aproximadamente%20con%20corriente%20de%202V.
-* https://www.geeknetic.es/Resistencia/que-es-y-para-que-sirve
+* 
+¿Qué es una resistencia y para qué sirve? (s/f). GEEKNETIC. Recuperado el 29 de noviembre de 2022, de https://www.geeknetic.es/Resistencia/que-es-y-para-que-sirve
 * https://maquinasde.com/maquinas/electrica/resistencia-electrica/
