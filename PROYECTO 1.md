@@ -29,6 +29,9 @@ Objetivos Específico:
 
 # 3. Explicación del procedimiento.
 
+![image](https://user-images.githubusercontent.com/116813369/204435711-c0bf7f36-dcc2-42be-a0ce-64fe0132207f.png)
+
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 NO HUBO EJERCICIOS.
 
