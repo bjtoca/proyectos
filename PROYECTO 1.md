@@ -29,20 +29,36 @@ Objetivos Específico:
 
 # 3. Explicación del procedimiento.
 
+1. Siguiendo el diagrama esquematico presentado en el video, nos pudimos guiar para crear nuestro proyecto.
+
+![image](https://user-images.githubusercontent.com/116813369/204437922-865eeb21-265a-4f9e-8fc8-f4f777f4b4c7.png)
+
+2. Basandonos en el diagrama presentado en el video, realizamos una simulacion de como nos quedaria el circuito.
+
+![image](https://user-images.githubusercontent.com/116813369/204438111-c9572fb2-1710-4de9-ba62-e06317f7ef34.png)
+
+3. Realizamos el circuito, para poder comprobar que funcione correctamente, ya que en la simulacion no podemos hacer la comprobacion necesaria. Para lo cual nos quedaria de la siguiente manera
+
+![Imagen de WhatsApp 2022-11-28 a las 23 24 18](https://user-images.githubusercontent.com/116813369/204438615-198e13b6-5c43-4d4e-909a-314a29a8b564.jpg)
+![Imagen de WhatsApp 2022-11-28 a las 23 24 18](https://user-images.githubusercontent.com/116813369/204438626-c47ed3c0-d787-460e-9222-ce30e06977b6.jpg)
+![Imagen de WhatsApp 2022-11-28 a las 23 24 18](https://user-images.githubusercontent.com/116813369/204438635-e46a4818-dd12-4d55-8de6-bec2c750a49c.jpg)
+![Imagen de WhatsApp 2022-11-28 a las 23 24 17](https://user-images.githubusercontent.com/116813369/204438602-25fdfebd-a78e-4e52-a115-e674e6727f5f.jpg)
+
+Para la fuente de alimentacion de este circuito, usamos una bateria de 9 voltios.
+
+Este proyecto se basa en cables que reciben señal del agua, la cual pasa por los transitores y llega hasta los leds, seguyn el cable que toque, para asi identificar en que nivel de agua se encuentra y se prenda un led de cierto color, indicando la cantidad de agua que tiene el vaso.
+
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 NO HUBO EJERCICIOS.
 
 # 5. Video.
 
 # 6. Conclusiones.
-* Se comprendió como funciona cada uno de los 
+
 # 7. Bibliografía.
 
+*https://www.areatecnologia.com/electronica/como-es-un-led.html
 * Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
-
-* Álvarez, D. O. (s/f). Número Atómico - Concepto, masa atómica y número másico. Concepto. Recuperado el 11 de noviembre de 2022, de https://concepto.de/numero-atomico/
-
-* Bibliografía
-¿Qué es una resistencia y para qué sirve? (s/f). GEEKNETIC. Recuperado el 29 de noviembre de 2022, de https://www.geeknetic.es/Resistencia/que-es-y-para-que-sirve
-
-* Resistencia Eléctrica. (2021, mayo 26). Maquinasde.com. https://maquinasde.com/maquinas/electrica/resistencia-electrica/
+* https://www.barcelonaled.com/blog/informacion-led/caracteristicas-y-ventajas-de-los-diodos-led/#:~:text=y%20sus%20ventajas.-,Caracter%C3%ADsticas%20de%20los%20diodos%20LED,aproximadamente%20con%20corriente%20de%202V.
+* https://www.geeknetic.es/Resistencia/que-es-y-para-que-sirve
+* https://maquinasde.com/maquinas/electrica/resistencia-electrica/
