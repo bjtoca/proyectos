@@ -38,10 +38,11 @@ NO HUBO EJERCICIOS.
 
 # 7. Bibliografía.
 
-*https://www.areatecnologia.com/electronica/como-es-un-led.html
 * Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
+
+* Álvarez, D. O. (s/f). Número Atómico - Concepto, masa atómica y número másico. Concepto. Recuperado el 11 de noviembre de 2022, de https://concepto.de/numero-atomico/
 
 * Bibliografía
 ¿Qué es una resistencia y para qué sirve? (s/f). GEEKNETIC. Recuperado el 29 de noviembre de 2022, de https://www.geeknetic.es/Resistencia/que-es-y-para-que-sirve
 
-Resistencia Eléctrica. (2021, mayo 26). Maquinasde.com. https://maquinasde.com/maquinas/electrica/resistencia-electrica/
+* Resistencia Eléctrica. (2021, mayo 26). Maquinasde.com. https://maquinasde.com/maquinas/electrica/resistencia-electrica/
