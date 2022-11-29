@@ -35,7 +35,7 @@ NO HUBO EJERCICIOS.
 # 5. Video.
 
 # 6. Conclusiones.
-
+* Se comprendió como funciona cada uno de los 
 # 7. Bibliografía.
 
 * Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
