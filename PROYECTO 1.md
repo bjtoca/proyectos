@@ -24,4 +24,14 @@ Objetivos Específico:
 
 ![image](https://user-images.githubusercontent.com/117947312/204426224-a98e7508-b158-40fc-992f-d7b67bd0329c.png)
 
+![Mapa Mental Marketing Ideas Moderno Verde](https://user-images.githubusercontent.com/117947312/204429472-b6b5db22-acd0-4322-b2bd-f4f199df206b.png)
 
+
+# 3. Explicación del procedimiento.
+
+# 4. Video.
+
+# 5. Conclusiones.
+
+# 6. Bibliografía.
+•	Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
