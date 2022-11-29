@@ -36,6 +36,12 @@ NO HUBO EJERCICIOS.
 
 # 6. Conclusiones.
 
+* Se comprendió la función de cada uno de los materiales que utilizamos en el proyecto y como actuaron todos en el mismo.
+
+* Se describió la importancia de nuestro proyecto para la vida real.
+
+* Se puedo entender como la relación entre el voltaje de una bateria con resistores y transistores, para poder prender un led.
+
 # 7. Bibliografía.
 
 * Transistor. (s/f). Concepto. Recuperado el 29 de noviembre de 2022, de https://concepto.de/transistor/
