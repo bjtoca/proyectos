@@ -54,6 +54,11 @@ NO HUBO EJERCICIOS.
 # 5. Video.
 
 # 6. Conclusiones.
+* Se comprendió como funciona cada uno de los materiales que usamos en el proyecto y como se relacionaron para llevarlo a cabo.
+
+* Se investigó la función de cada uno de los materiales utilizados en el proyecto.
+
+* Se ideó una posible utilidad para el proyecto, para aplicarle en la vida real.
 
 # 7. Bibliografía.
 
