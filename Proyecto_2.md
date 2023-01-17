@@ -40,5 +40,7 @@ Objetivos Específico:
 
 ![image](https://user-images.githubusercontent.com/117947312/212792998-4608f6a5-882d-4767-a25a-f6ffd60372a2.png)
 
-3. Procedemos a conectar 
+3. Procedemos a conectar dos cables en cada uno de los dos interruptores y que pasen por la boquilla del medio.
+
+
 
