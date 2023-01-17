@@ -32,6 +32,8 @@ Objetivos Específico:
 
 # 3. Explicación del procedimiento.
 
+![a](https://user-images.githubusercontent.com/117947312/212906457-c9c31cfd-28ca-455c-82e2-61119d84cd05.png)
+
 1. En una tabla procedimos a pegar las cajetillas de los interruptores y de la boquilla con tornillos.
 
 ![image](https://user-images.githubusercontent.com/117947312/212790481-5a5a7966-bb3a-4864-89ec-6f10dd8c4ede.png)
