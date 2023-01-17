@@ -73,6 +73,13 @@ https://youtu.be/9Wf1gsk05eA
 # 7. Bibliografía.
 
 Bombilla. (s. f.). Etsist. Recuperado 16 de enero de 2023, de https://www.etsist.upm.es/estaticos/ingeniatic/index.php/tecnologias/item/388-bombilla%3Ftmpl=component&print=1.html#:~:text=La%20bombilla%2C%20también%20llamada%20lámpara,gas%20inerte%20como%20el%20argón.
+  
+  
+ https://okdiario.com/curiosidades/cuales-son-partes-interruptor-3154745
 
 
+https://www.derichebourgespana.com/que-es-el-cable-de-cobre-y-para-que-se-utiliza/#:~:text=El%20cable%20de%20cobre%20es%20principalmente%20un%20conductor%20de%20electricidad,cobre%20es%20el%20mejor%20aliado.
+
+
+https://es.wikipedia.org/wiki/Portal%C3%A1mparas
 
