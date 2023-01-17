@@ -56,6 +56,23 @@ Objetivos Específico:
 
 ![image](https://user-images.githubusercontent.com/117947312/212795830-990a847c-58a0-44dc-bab3-94e81719fa25.png)
 
+# 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+NO HUBO EJERCICIOS.
+
+# 5. Video.
+https://youtu.be/9Wf1gsk05eA
+
+# 6. Conclusiones.
+
+*Se conoció la function de cada elemento usado para el proyecto, y como se relacionaban entre si, para formar el producto final.
+
+*El circuito realizado en el proyecto, se puede usar en varias ocasiones de la vida cotidiana, como puede ser en unas gradas, para así poder alumbrar las gradas desde el punto A o el punto B y, de la misma, manera apagarlas.
+
+*Cada material utilizado en el proyecto, tiene su función, ya que sin ellos, este proyecto no funcionaría, siendo así, cada elemento esencial, ya que cada uno complementa a otro.
+
+# 7. Bibliografía.
+
+Bombilla. (s. f.). Etsist. Recuperado 16 de enero de 2023, de https://www.etsist.upm.es/estaticos/ingeniatic/index.php/tecnologias/item/388-bombilla%3Ftmpl=component&print=1.html#:~:text=La%20bombilla%2C%20también%20llamada%20lámpara,gas%20inerte%20como%20el%20argón.
 
 
 
