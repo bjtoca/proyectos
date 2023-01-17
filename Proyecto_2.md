@@ -64,11 +64,11 @@ https://youtu.be/9Wf1gsk05eA
 
 # 6. Conclusiones.
 
-*Se conoció la function de cada elemento usado para el proyecto, y como se relacionaban entre si, para formar el producto final.
+* Se conoció la function de cada elemento usado para el proyecto, y como se relacionaban entre si, para formar el producto final.
 
-*El circuito realizado en el proyecto, se puede usar en varias ocasiones de la vida cotidiana, como puede ser en unas gradas, para así poder alumbrar las gradas desde el punto A o el punto B y, de la misma, manera apagarlas.
+* El circuito realizado en el proyecto, se puede usar en varias ocasiones de la vida cotidiana, como puede ser en unas gradas, para así poder alumbrar las gradas desde el punto A o el punto B y, de la misma, manera apagarlas.
 
-*Cada material utilizado en el proyecto, tiene su función, ya que sin ellos, este proyecto no funcionaría, siendo así, cada elemento esencial, ya que cada uno complementa a otro.
+* Cada material utilizado en el proyecto, tiene su función, ya que sin ellos, este proyecto no funcionaría, siendo así, cada elemento esencial, ya que cada uno complementa a otro.
 
 # 7. Bibliografía.
 
