@@ -42,5 +42,20 @@ Objetivos Específico:
 
 3. Procedemos a conectar dos cables en cada uno de los dos interruptores y que pasen por la boquilla del medio.
 
+![image](https://user-images.githubusercontent.com/117947312/212795611-e31dc919-4b2d-4727-b1a9-7242b6bdcb93.png)
+
+4. conectamos los cables de retorno y fase en cada interruptor hasta el bombillo.
+
+![image](https://user-images.githubusercontent.com/117947312/212795737-efd39741-6434-4df2-98fe-43245aa91cb3.png)
+
+5. le damos energia al circuito por medio de la boquilla principal.
+
+![image](https://user-images.githubusercontent.com/117947312/212795793-adcfe34a-ed16-456d-b3ba-7d81c5285c2a.png)
+
+6. probamos al circuito.
+
+![image](https://user-images.githubusercontent.com/117947312/212795830-990a847c-58a0-44dc-bab3-94e81719fa25.png)
+
+
 
 
